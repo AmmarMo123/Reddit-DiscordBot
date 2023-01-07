@@ -7,4 +7,4 @@ This Bot accepts 3 parameters:
   
 The instrcution should look like !Reddit [Subreddit] [Category] [Number of posts]. 
 
-It will then fetch the posts from the specified category and display the result.
+It will then get the posts from the specified category using the Reddit API and display the result on discord using Discord.py.
